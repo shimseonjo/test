@@ -1,1 +1,5 @@
+
 print('help!!!')
+
+print('admin')
+
